@@ -1,0 +1,8 @@
+name: DamsLIB
+author: Dams333
+version: 1.0.0
+api-version: 1.13
+main: ch.dams333.damsLib.DamsLIB
+commands:
+  help:
+    description: Commande d'aide
